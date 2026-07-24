@@ -1,0 +1,26 @@
+# Cambridge HVAC Pro
+
+> Cambridge HVAC Pro is a local HVAC company serving Cambridge, Waterloo Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 621-7111  |  Email: contact@cambridgehvacpro.ca  |  Website: https://cambridgehvacpro.ca
+
+Service areas: Cambridge, Kitchener, Waterloo, Elmira, Listowel, New Hamburg, Baden, Breslau
+
+## Key pages
+
+- [Home](https://cambridgehvacpro.ca/): Cambridge HVAC Pro homepage with service overview and FAQ
+- [About](https://cambridgehvacpro.ca/about/): About the company and service area
+- [Contact](https://cambridgehvacpro.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://cambridgehvacpro.ca/services/furnace-repair/): Furnace Installation & Repair in Cambridge, Ontario
+- [AC Installation & Repair](https://cambridgehvacpro.ca/services/ac-repair/): AC Installation & Repair in Cambridge, Ontario
+- [Heat Pumps](https://cambridgehvacpro.ca/services/heat-pump-repair-installation/): Heat Pumps in Cambridge, Ontario
+- [Duct Cleaning](https://cambridgehvacpro.ca/services/duct-cleaning/): Duct Cleaning in Cambridge, Ontario
+- [Thermostats](https://cambridgehvacpro.ca/services/thermostat-repair-replacement/): Thermostats in Cambridge, Ontario
+- [Ductless AC Installation](https://cambridgehvacpro.ca/services/ductless-ac-installation/): Ductless AC Installation in Cambridge, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Cambridge are answered on the homepage.
